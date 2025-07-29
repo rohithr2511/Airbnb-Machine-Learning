@@ -1,0 +1,14 @@
+{
+  "client": {
+    "company_name": "Sample Client Company Private Limited",
+    "address": "Plot no. 123, Industrial Area, Phase 1, Sample City, State - 500001",
+    "gstin": "36ABCDE1234F1Z5"
+  },
+  "receiver": {
+    "company_name": "CHARGEHOUSE MOBILITY PRIVATE LIMITED",
+    "address": "Plot no. 998/606, Phase 3, IDA Cherlapally, Hyderabad, Telangana",
+    "gstin": "36ABCSS3311Z1Z5",
+    "phone": "9966607317",
+    "email": "info@chargehouse.com"
+  }
+}
