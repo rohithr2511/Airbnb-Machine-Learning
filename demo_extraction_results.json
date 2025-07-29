@@ -1,0 +1,14 @@
+{
+  "client": {
+    "company_name": "ABC TECHNOLOGIES PVT LTD",
+    "address": "123 Tech Park, Sector 5 Electronic City, Bangalore - 560100 Karnataka, India Phone: +91-80-12345678 Email: contact@abctech.com",
+    "gstin": "29ABCDE1234F1Z5"
+  },
+  "receiver": {
+    "company_name": "XYZ SOLUTIONS PRIVATE LIMITED",
+    "address": "456 Business Center, Plot No. 12 Cyber Hub, Gurgaon - 122001 Haryana, India Phone: +91-124-9876543 Email: billing@xyzsolutions.com",
+    "gstin": "27XYZAB5678C1D9",
+    "phone": "",
+    "email": "contact@abctech.com"
+  }
+}
